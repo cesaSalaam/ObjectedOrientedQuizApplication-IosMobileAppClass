@@ -1,12 +1,11 @@
 //
 //  listOfQuizesClass.swift
 //  Quiz
-//
-//  Created by Lifoma Salaam on 1/28/16.
-//  Copyright © 2016 Lifoma Salaam. All rights reserved.
+//  Cesa Salaam
+// 
 //
 
-import Foundation
+import UIKit
 
 class listOfQuizes {
     var arrayOfQuizes: [Quiz] = []
