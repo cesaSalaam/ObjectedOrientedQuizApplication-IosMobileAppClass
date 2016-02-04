@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  Quiz
 //
-//  Created by Lifoma Salaam on 1/21/16.
-//  Copyright © 2016 Lifoma Salaam. All rights reserved.
+//  Cesa Salaam
 //
 
 import UIKit
