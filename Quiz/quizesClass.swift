@@ -10,8 +10,8 @@ import UIKit
 
 class Quiz {
     
-    var Question: String = ""
-    var Answer: String = ""
+    private var Question: String = ""
+    private var Answer: String = ""
     
     init(question: String, answer: String){
         self.Question = question
@@ -27,13 +27,13 @@ class Quiz {
         return Answer
     }
     
-    func setQuestion() -> String {
+    func setQuestion(Question: String){
         
-        return Question
+        self.Question = Question
     }
     
-    func setAnswer() -> String {
+    func setAnswer(Answer: String){
         
-        return Question
+        self.Answer = Answer
     }
 }
